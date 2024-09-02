@@ -1688,7 +1688,7 @@ Giving:AddSlider('AmountToAdd', {
     Text = 'Amount to add',
     Default = 128,
     Min = 0,
-    Max = 128,
+    Max = 400,
     Suffix = '',
     Rounding = 0,
     Compact = true,
